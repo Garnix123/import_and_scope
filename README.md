@@ -40,7 +40,7 @@ Sample dataset used in this exercise:
 
 ---
 
-OUTPUT:
+## 📤 OUTPUT:
 
 ```python
 Employee name is:  Mario
