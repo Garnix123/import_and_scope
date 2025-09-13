@@ -37,3 +37,15 @@ Sample dataset used in this exercise:
 - Reads employee.json.
 - Demonstrates how to deserialize JSON into Python objects using json.load().
 - Accesses and prints the values (first_name, age, title).
+
+---
+
+OUTPUT:
+
+```python
+Employee name is:  Mario
+Employee age is:  55
+Employee title is:  owner
+employee_dict: {'first_name': 'Mario', 'age': 55, 'title': 'owner'}
+json_object: {"first_name": "Mario", "age": 55, "title": "owner"}
+```
